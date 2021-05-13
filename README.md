@@ -6,13 +6,13 @@
 - 1.0.0-tsi.d.t : Rudimentary model for Telefonica Germany internal use
 
 ### UML
-- [AirInterface_2.0.0-tsp.191122.1800](./AirInterface_2.0.0-tsp.191122.1800.zip)
+- [TcpServerInterface_1.0.0-tsp.210421.1640](./TcpServerInterface_1.0.0-tsp.210421.1640.zip)
 
 ### Overview 
-- [AirInterface_2.0.0-tsp.191122.1800+overview.1](./AirInterface_2.0.0-tsp.191122.1800+overview.1.png)
+- [TcpServerInterface_1.0.0-tsp.210421.1640+overview.1](./TcpServerInterface_1.0.0-tsp.210421.1640+overview.1.png)
 
 ### GenDoc Export
-- [AirInterface_2.0.0-tsp.191122.1800+gendoc.1](./AirInterface_2.0.0-tsp.191122.1800+gendoc.1.docx)
+- [TcpServerInterface_1.0.0-tsp.210421.1640+gendoc.1](./TcpServerInterface_1.0.0-tsp.210421.1640+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_TCP_LAYER
